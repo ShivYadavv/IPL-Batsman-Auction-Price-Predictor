@@ -1,4 +1,4 @@
-# 🏏 IPL 2025 Mega Auction Price Prediction using Machine Learning
+# 🏏 Predicting-IPL-2025-Mega-Auction-Player-Prices-Using-Machine-Learning
 
 A Machine Learning project that predicts **IPL player auction prices** using historical performance statistics and past auction data.  
 The goal is to estimate a player's expected market value in the **IPL Mega Auction** using a data-driven approach.
